@@ -103,7 +103,7 @@ To https://github.com/git-lfs/git-lfs-test
    67fcf6a..47b2002  master -> master
 ```
 
-Note: Git LFS requires Git v1.8.5 or higher.
+Note: Gitaaa LFS requires Git v1.8.5 or higher.
 
 ## Limitations
 
